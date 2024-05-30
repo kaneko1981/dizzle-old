@@ -86,7 +86,7 @@ img {
   background-position: center top;
 }
 #home {
-  background-image: url(../images/dizzmain.jpg);
+  background-image: url(images/dizzmain.jpg);
   min-height: 100vh;
 }
 #home .page-title {
@@ -94,7 +94,7 @@ img {
 }
 
 #news {
-  background-image: url(../images/news.jpg);
+  background-image: url(images/news.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -263,7 +263,7 @@ aside p {
 /* CONTACT
 ------------------------------- */
 #contact {
-  background-image: url(../images/IMG_0709.JPG);
+  background-image: url(images/IMG_0709.JPG);
   min-height: 100vh;
   background-size: contain;
 }
