@@ -216,7 +216,7 @@ aside p {
 /* MENU
 ------------------------------- */
 #menu {
-  background-image: url(../images/lmenu.jpg);
+  background-image: url(images/lmenu.jpg);
   min-height: 20vh;
 }
 .menu-content {
